@@ -1,3 +1,13 @@
+//the following code carries out the folllowing functions on linked list;
+//copy,concatenate,count nodes,reverse,split at node;
+//author-sandy45;
+//date-18-01-18;
+//compiler turbo c;
+//feel free to edit and use in any way;
+//happy learning;
+
+
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<malloc.h>
